@@ -1,3 +1,3 @@
 # PhotoGraphy
 
-This is a responsive website to show-off my photography skills, made with Materialize CSS
+I designed this responsive website with Materialize CSS to showcase my photographic skills
